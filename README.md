@@ -7,10 +7,3 @@
 - CSS;
 - JavaScript.
 ```
-
-#### features implementadas:
-
-```
-- utilização de um banco de dados local para salvar tarefas.
-```
-
